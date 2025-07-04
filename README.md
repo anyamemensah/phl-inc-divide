@@ -9,4 +9,4 @@ This project displays differences in predominant household incomes (i.e., most c
 An [earlier version of the report](https://public.tableau.com/app/profile/amanm/viz/PhiladelphiasIncomeDivide_/PhillysIncomeDivide) is available on Ama Nyame-Mensah's Tableau Public page. That version uses data from 2019.
 
 
-![A map of Philadelphia Census Tracts overlaid with points each representing the total households within a Philadelphia Census Tract. Larger circles correspond to tracts with more households. Additionally, each circle is color-coded to indicate the predominant income bracket among the households in that tract.](https://www.dropbox.com/scl/fi/jc3ougt4vlpidtoejjqa9/phl_inc_divide_map.png?rlkey=b8xhjslbbvqsjf7bgqp1ja77p&raw=1)
+![A map of Philadelphia Census Tracts overlaid with points each representing the total households within a Philadelphia Census Tract. Larger circles correspond to tracts with more households. Additionally, each circle is color-coded to indicate the predominant income bracket among the households in that tract.](https://www.dropbox.com/scl/fi/jc3ougt4vlpidtoejjqa9/phl_inc_divide_map.png?rlkey=b8xhjslbbvqsjf7bgqp1ja77p&raw=1){ width=50% }
