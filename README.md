@@ -6,8 +6,10 @@ This project displays differences in predominant household incomes (i.e., most c
 - [2023 TIGER/Line Shapefiles](https://www2.census.gov/geo/tiger/TIGER2023/TRACT/tl_2023_42_tract.zip)
 - [2023 U.S. Gazetteer](https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2023_Gazetteer/2023_gaz_tracts_42.txt)
 
-An [earlier version of the report](https://public.tableau.com/app/profile/amanm/viz/PhiladelphiasIncomeDivide_/PhillysIncomeDivide) is available on Ama Nyame-Mensah's Tableau Public page. That version uses data from 2019.
+View the report on GitHub Pages: https://anyamemensah.github.io/phl_inc_divide/.
+
+Note: An [earlier version of the report](https://public.tableau.com/app/profile/amanm/viz/PhiladelphiasIncomeDivide_/PhillysIncomeDivide) is available on Ama Nyame-Mensah's Tableau Public page. That version uses data from 2019.
 
 <div align='center'>
-	<img src="https://www.dropbox.com/scl/fi/jc3ougt4vlpidtoejjqa9/phl_inc_divide_map.png?rlkey=b8xhjslbbvqsjf7bgqp1ja77p&raw=1" alt="A map of Philadelphia Census Tracts overlaid with points each representing the total households within a Philadelphia Census Tract. Larger circles correspond to tracts with more households. Additionally, each circle is color-coded to indicate the predominant income bracket among the households in that tract." width="75%" />
+	<img src="https://www.dropbox.com/scl/fi/jc3ougt4vlpidtoejjqa9/phl_inc_divide_map.png?rlkey=b8xhjslbbvqsjf7bgqp1ja77p&raw=1" alt="A map of Philadelphia Census Tracts overlaid with points each representing the total households within a Philadelphia Census Tract. Larger circles correspond to tracts with more households. Additionally, each circle is color-coded to indicate the predominant income bracket among the households in that tract." width="65%" />
 </div>
