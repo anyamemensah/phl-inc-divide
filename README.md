@@ -6,7 +6,7 @@ This project displays differences in predominant household incomes (i.e., most c
 - [2023 TIGER/Line Shapefiles](https://www2.census.gov/geo/tiger/TIGER2023/TRACT/tl_2023_42_tract.zip)
 - [2023 U.S. Gazetteer](https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2023_Gazetteer/2023_gaz_tracts_42.txt)
 
-View the report on GitHub Pages: https://anyamemensah.github.io/phl_inc_divide/.
+View the report on GitHub Pages: https://anyamemensah.github.io/phl-inc-divide/.
 
 Note: An [earlier version of the report](https://public.tableau.com/app/profile/amanm/viz/PhiladelphiasIncomeDivide_/PhillysIncomeDivide) is available on Ama Nyame-Mensah's Tableau Public page. That version uses data from 2019.
 
