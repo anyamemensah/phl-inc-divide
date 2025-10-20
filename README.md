@@ -8,4 +8,5 @@ This visual report shows the most common household income ranges in each Philade
 
 A [previous version of this report](https://public.tableau.com/app/profile/amanm/viz/PhiladelphiasIncomeDivide_/PhillysIncomeDivide), based on 2019 data, is available on Ama Nyame-Mensah's Tableau Public page.
 
+
 <img src="https://www.dropbox.com/scl/fi/jc3ougt4vlpidtoejjqa9/phl_inc_divide_map.png?rlkey=b8xhjslbbvqsjf7bgqp1ja77p&raw=1" alt="A map of Philadelphia Census Tracts overlaid with points each representing the total households within a Philadelphia Census Tract. Larger circles correspond to tracts with more households. Additionally, each circle is color-coded to indicate the predominant income bracket among the households in that tract." width="500"/>
